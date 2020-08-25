@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bytekl.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-25T06:51:59.423Z</updated>
+    <updated>2020-08-25T09:40:43.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bytekl.github.io"/>
     <link rel="self" href="https://bytekl.github.io/atom.xml"/>
@@ -10,6 +10,65 @@
     <logo>https://bytekl.github.io/images/avatar.png</logo>
     <icon>https://bytekl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown使用指南]]></title>
+        <id>https://bytekl.github.io/post/markdown-shi-yong-zhi-nan/</id>
+        <link href="https://bytekl.github.io/post/markdown-shi-yong-zhi-nan/">
+        </link>
+        <updated>2020-08-25T08:18:43.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="标题-标题">标题【## 标题】</h2>
+<h3 id="三级标题-三级标题">三级标题【### 三级标题】</h3>
+<h4 id="四级标题-四级标题">四级标题【#### 四级标题】</h4>
+<h2 id="字体-字体">字体【## 字体】</h2>
+<p><em>Hello,Word</em></p>
+<p><strong>Hello,Word</strong></p>
+<p><em><strong>Hello,word</strong></em></p>
+<p><s>Hello,word</s></p>
+<h2 id="引用">引用</h2>
+<blockquote>
+<p>Markdown中的引用</p>
+</blockquote>
+<h2 id="分割线">分割线</h2>
+<hr>
+<hr>
+<h2 id="图片">图片</h2>
+<img src="/Users/likui/Desktop/WechatIMG41.png" alt="截图" style="zoom:50%;" />
+<h2 id="超链接">超链接</h2>
+<p><a href="https://www.bilibili.com/">点击跳转下载</a></p>
+<h2 id="列表">列表</h2>
+<ol>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ol>
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ul>
+<h2 id="表格">表格</h2>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>年龄</th>
+<th>生日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>张三</td>
+<td>21</td>
+<td>1999</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="代码">代码</h2>
+<pre><code class="language-Java">public
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bytekl.github.io/post/hello-gridea/</id>
