@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bytekl.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-25T21:54:24.743Z</updated>
+    <updated>2020-08-25T23:13:07.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bytekl.github.io"/>
     <link rel="self" href="https://bytekl.github.io/atom.xml"/>
@@ -32,7 +32,7 @@
 <hr>
 <hr>
 <h2 id="图片">图片</h2>
-<img src="/Users/likui/Desktop/WechatIMG41.png" alt="截图" style="zoom:50%;" />
+<figure data-type="image" tabindex="1"><img src="https://oss.console.cncncloud.com/2020/08/26/7911864fd8b50.png%22Byte%E5%BA%93" alt="微信公众号图片" loading="lazy"></figure>
 <h2 id="超链接">超链接</h2>
 <p><a href="https://www.bilibili.com/">点击跳转下载</a></p>
 <h2 id="列表">列表</h2>
