@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bytekl.github.io</id>
     <title>Byte库</title>
-    <updated>2020-08-25T23:42:54.355Z</updated>
+    <updated>2020-08-26T00:16:13.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bytekl.github.io"/>
     <link rel="self" href="https://bytekl.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Byte库</rights>
     <entry>
         <title type="html"><![CDATA[Markdown使用指南]]></title>
-        <id>https://bytekl.github.io/post/markdown-shi-yong-zhi-nan/</id>
-        <link href="https://bytekl.github.io/post/markdown-shi-yong-zhi-nan/">
+        <id>https://bytekl.github.io/post/markdown/</id>
+        <link href="https://bytekl.github.io/post/markdown/">
         </link>
         <updated>2020-08-25T08:18:43.000Z</updated>
         <content type="html"><![CDATA[<h2 id="标题-标题">标题【## 标题】</h2>
