@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bytekl.github.io</id>
     <title>Byte库</title>
-    <updated>2020-08-27T00:49:39.772Z</updated>
+    <updated>2020-08-27T02:30:53.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bytekl.github.io"/>
     <link rel="self" href="https://bytekl.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://bytekl.github.io/images/avatar.png</logo>
     <icon>https://bytekl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Byte库</rights>
+    <entry>
+        <title type="html"><![CDATA[早教 ]]></title>
+        <id>https://bytekl.github.io/post/zao-jiao-or-xiao-xue/</id>
+        <link href="https://bytekl.github.io/post/zao-jiao-or-xiao-xue/">
+        </link>
+        <updated>2020-08-27T00:51:46.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="潘慧孩子3-7岁长高课完结视频讲座讲座答疑"><a href="https://shimo.im/docs/Pd3j6RhPjgcrxw6D/">【潘慧】孩子3-7岁长高课（完结）视频讲座+讲座+答疑</a></h2>
+<h2 id="曲少云如何开发孩子的数学潜力-用游戏帮孩子搭建数学思维"><a href="https://shimo.im/docs/GVQvWJqCHdyvdPDH/">【曲少云】如何开发孩子的数学潜力 用游戏帮孩子搭建数学思维</a></h2>
+<h2 id="完结0-6对儿童体质调理"><a href="https://shimo.im/docs/RYTV6yd8kQwcDTPd/">【完结】0-6对儿童体质调理</a></h2>
+<h2 id="康妮如何培养受欢迎的孩子-从小培养孩子的社交竞争力"><a href="https://shimo.im/docs/WkG9pXyPVR6wQT6r/">【康妮】如何培养受欢迎的孩子 从小培养孩子的社交竞争力</a></h2>
+<h2 id="经典国学书籍-儒家经典论语全文译文pdf文档"><a href="">经典国学书籍 儒家经典《论语》全文+译文PDF文档</a></h2>
+<h2 id="李跃儿让孩子回归个性化教育完结"><a href="https://shimo.im/docs/QDDWYWch98WYD6xT/">【李跃儿】让孩子回归个性化教育（完结）</a></h2>
+<h2 id="叶壮如何与学龄前儿童有效沟通这么说孩子才会听"><a href="https://shimo.im/docs/9r69vRKdJdwHyV9c/">【叶壮】如何与学龄前儿童有效沟通？这么说，孩子才会听</a></h2>
+<h2 id="徐佳如何培养亲近自然的孩子-孩子亲近自然的21个锦囊"><a href="https://shimo.im/docs/PRQtqWcx3tT99gQd/"> 【徐佳】如何培养亲近自然的孩子 孩子亲近自然的21个锦囊</a></h2>
+<h2 id="虫虫如何开发孩子的绘画潜力-每个孩子都需要画画"><a href="https://shimo.im/docs/pcpXQKKHTPtpXCtg/"> 【虫虫】如何开发孩子的绘画潜力 每个孩子都需要画画</a></h2>
+<h2 id="凯叔父母训练营-乐高冠军讲师机械拼插特训营-视频教程"><a href="https://shimo.im/docs/g9cvTPDR8kVtqpGV/"> 凯叔父母训练营 〈乐高冠军讲师机械拼插特训营〉 视频教程</a></h2>
+<h2 id="价值1999元早教儿歌国学资料大合集"><a href="https://shimo.im/docs/jDTPCJphwC6cwX3P/"> 价值1999元早教儿歌国学资料大合集</a></h2>
+<h2 id="教育专家王金战-育才方案方法篇成才的阶梯讲座全集视频全集"><a href="https://shimo.im/docs/TDRPY8TqY8GgKYjy/"> 教育专家王金战 育才方案方法篇成才的阶梯讲座全集视频全集</a></h2>
+<h2 id="范蕙萍如何开发孩子的英语潜力-利用语言敏感期打好英语基础"><a href="https://shimo.im/docs/WKgxY3qhykdWx8VP/">【范蕙萍】如何开发孩子的英语潜力 利用语言敏感期打好英语基础</a></h2>
+<p><input type="button" value="Hello world!"></input></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown使用指南]]></title>
         <id>https://bytekl.github.io/post/markdown/</id>
