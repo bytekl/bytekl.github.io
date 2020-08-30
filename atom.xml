@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bytekl.github.io</id>
     <title>石土土</title>
-    <updated>2020-08-30T11:51:30.057Z</updated>
+    <updated>2020-08-30T15:14:12.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bytekl.github.io"/>
     <link rel="self" href="https://bytekl.github.io/atom.xml"/>
@@ -11,24 +11,75 @@
     <icon>https://bytekl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 石土土</rights>
     <entry>
-        <title type="html"><![CDATA[早教 ]]></title>
-        <id>https://bytekl.github.io/post/zao/</id>
-        <link href="https://bytekl.github.io/post/zao/">
+        <title type="html"><![CDATA[面向对象三大特征]]></title>
+        <id>https://bytekl.github.io/post/mian-xiang-dui-xiang-san-da-te-zheng/</id>
+        <link href="https://bytekl.github.io/post/mian-xiang-dui-xiang-san-da-te-zheng/">
         </link>
-        <updated>2020-08-27T00:51:46.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="潘慧孩子3-7岁长高课完结视频讲座讲座答疑"><a href="https://shimo.im/docs/Pd3j6RhPjgcrxw6D/">【潘慧】孩子3-7岁长高课（完结）视频讲座+讲座+答疑</a></h2>
-<h2 id="曲少云如何开发孩子的数学潜力-用游戏帮孩子搭建数学思维"><a href="https://shimo.im/docs/GVQvWJqCHdyvdPDH/">【曲少云】如何开发孩子的数学潜力 用游戏帮孩子搭建数学思维</a></h2>
-<h2 id="完结0-6对儿童体质调理"><a href="https://shimo.im/docs/RYTV6yd8kQwcDTPd/">【完结】0-6对儿童体质调理</a></h2>
-<h2 id="康妮如何培养受欢迎的孩子-从小培养孩子的社交竞争力"><a href="https://shimo.im/docs/WkG9pXyPVR6wQT6r/">【康妮】如何培养受欢迎的孩子 从小培养孩子的社交竞争力</a></h2>
-<h2 id="经典国学书籍-儒家经典论语全文译文pdf文档"><a href="">经典国学书籍 儒家经典《论语》全文+译文PDF文档</a></h2>
-<h2 id="李跃儿让孩子回归个性化教育完结"><a href="https://shimo.im/docs/QDDWYWch98WYD6xT/">【李跃儿】让孩子回归个性化教育（完结）</a></h2>
-<h2 id="叶壮如何与学龄前儿童有效沟通这么说孩子才会听"><a href="https://shimo.im/docs/9r69vRKdJdwHyV9c/">【叶壮】如何与学龄前儿童有效沟通？这么说，孩子才会听</a></h2>
-<h2 id="徐佳如何培养亲近自然的孩子-孩子亲近自然的21个锦囊"><a href="https://shimo.im/docs/PRQtqWcx3tT99gQd/"> 【徐佳】如何培养亲近自然的孩子 孩子亲近自然的21个锦囊</a></h2>
-<h2 id="虫虫如何开发孩子的绘画潜力-每个孩子都需要画画"><a href="https://shimo.im/docs/pcpXQKKHTPtpXCtg/"> 【虫虫】如何开发孩子的绘画潜力 每个孩子都需要画画</a></h2>
-<h2 id="凯叔父母训练营-乐高冠军讲师机械拼插特训营-视频教程"><a href="https://shimo.im/docs/g9cvTPDR8kVtqpGV/"> 凯叔父母训练营 〈乐高冠军讲师机械拼插特训营〉 视频教程</a></h2>
-<h2 id="价值1999元早教儿歌国学资料大合集"><a href="https://shimo.im/docs/jDTPCJphwC6cwX3P/"> 价值1999元早教儿歌国学资料大合集</a></h2>
-<h2 id="教育专家王金战-育才方案方法篇成才的阶梯讲座全集视频全集"><a href="https://shimo.im/docs/TDRPY8TqY8GgKYjy/"> 教育专家王金战 育才方案方法篇成才的阶梯讲座全集视频全集</a></h2>
-<h2 id="范蕙萍如何开发孩子的英语潜力-利用语言敏感期打好英语基础"><a href="https://shimo.im/docs/WKgxY3qhykdWx8VP/">【范蕙萍】如何开发孩子的英语潜力 利用语言敏感期打好英语基础</a></h2>
+        <updated>2020-08-30T14:22:41.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="封装性">封装性</h2>
+<h3 id="怎么封装">怎么封装</h3>
+<ul>
+<li>属性私有化</li>
+<li>每个私有的属性都提供对外访问入口---&gt;一个属性都对应两个公开的方法【setXxx、getXxx】通过set赋值，get取值</li>
+</ul>
+<pre><code>set方法可编写逻辑代码进行安全控制，对于外部调用者来说，要想访问该属性，只能通过调用这两个方法，这样才能保证数据的安全。
+</code></pre>
+<h3 id="封装有什么作用">封装有什么作用</h3>
+<pre><code>数据安全，操作简单
+</code></pre>
+<h3 id="不封装有什么问题">不封装有什么问题</h3>
+<pre><code>外部程序可以直接访问对象内部数据，导致数据不安全。对外暴露太多时，对于调用者来说操作时复杂的。
+</code></pre>
+<h2 id="继承性">继承性</h2>
+<h3 id="基础语法">基础语法</h3>
+<ul>
+<li>
+<p>继承的相关概念</p>
+<pre><code>B类继承A类，那么A类为父类/超类/基类/superclass，称B类为子类/派生类/subclass
+我们通常说父类和子类
+</code></pre>
+</li>
+<li>
+<p>Java的类和类之间只支持单继承</p>
+</li>
+<li>
+<p>Java中的类没有显示继承任何类时，缺省继承Object类【Object类是所有类的祖宗类】</p>
+</li>
+<li>
+<p>哪些能继承，哪些不能被继承</p>
+<pre><code>构造方法不能被继承
+私有的不能被继承
+其他都能被继承
+</code></pre>
+</li>
+</ul>
+<h3 id="继承的作用">继承的作用</h3>
+<ul>
+<li>基本作用---&gt;代码复用</li>
+<li>重要作用---&gt;有了继承，才有了方法的覆盖和多态机制</li>
+</ul>
+<h3 id="构造方法怎样执行">构造方法怎样执行</h3>
+<pre><code>子类继承父类，在创建子类对象时
+①在创建子类的构造方法在执行的时候会先去调用父类的构造方法
+②虽然父类的构造方法执行了，但并不会创建父类对象，父类构造方法执行的作用就是为了初始化当前子类对象中父类行的特征。
+③创建子类对象的时候，Object类中的无参构造方法是一定会执行的。
+④当一个构造方法第一行没有显示的调用“this（参数）”，也没有显示的调用“super（参数）”时，默认会有一个“super();”
+⑤this()和super()都只能出现在构造方法的第一行，两个不能共存
+</code></pre>
+<h2 id="多态性">多态性</h2>
+<h3 id="多态的基础语法">多态的基础语法</h3>
+<pre><code>①Java语言规定，只要两个类之间存在继承关系，则支持向上转型和向下转型。
+※无论是向上转型还是向下转型，要想编译通过，两种类型之间必须存在继承关系。
+②向上转型：子转换成父，又叫做自动类型转换
+③向下转型：父转换成子，又叫做强制类型转换。需要加强制类型转换符
+④典型的多态代码是父类型引用指向子类型对象，程序分编译阶段和运行阶段。编译阶段绑定是父类的方法（父类中没有这个方法，编译器会报错）但运行和堆内存中实际对象有关，运行的时候绑定的是实际对象的方法。
+⑤当访问子类中特有的方法时必须向下转型
+</code></pre>
+<h3 id="开发中的作用">开发中的作用</h3>
+<pre><code>①面向抽象编程，不要面向具体
+②多态的作用是降低程序耦合度，提高程序扩展力
+③软件开发原则，最基本的原则：OCP（开闭原则）
+</code></pre>
 ]]></content>
     </entry>
     <entry>
